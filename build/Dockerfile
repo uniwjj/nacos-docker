@@ -1,5 +1,6 @@
-FROM centos:7.5.1804
-MAINTAINER pader "huangmnlove@163.com"
+FROM centos:centos7.9.2009
+
+MAINTAINER pader "uniwjj@gmail.com"
 
 # set environment
 ENV MODE="cluster" \
